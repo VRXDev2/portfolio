@@ -1683,6 +1683,10 @@ html {
   --tw-bg-opacity: 1;
   background-color: hsl(200 5% 11%);
 }
+.bg-base2-100 {
+  --tw-bg-opacity: 1;
+  background-color: hsl(200 5% 11%);
+}
 .bg-zinc-100 {
   --tw-bg-opacity: 1;
   background-color: hsl(180 4% 10% / var(--tw-bg-opacity));
