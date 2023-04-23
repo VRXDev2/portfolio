@@ -216,7 +216,7 @@ html {
   --nf: 0 0% 12%;
   --b2: 0 0% 88%;
   --b3: 0 0% 79%;
-  --bc: 0 0% 20%;
+  --bc: 0 0% 80%;
   --pc: 160 100% 8%;
   --sc: 173 100% 8%;
   --ac: 239 100% 93%;
@@ -1684,7 +1684,7 @@ html {
 }
 .bg-zinc-100 {
   --tw-bg-opacity: 1;
-  background-color: rgb(244 244 245 / var(--tw-bg-opacity));
+  background-color: hsl(180 4% 13% / var(--tw-bg-opacity));
 }
 .p-2 {
   padding: 0.5rem;
