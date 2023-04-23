@@ -1685,7 +1685,7 @@ html {
 }
 .bg-zinc-100 {
   --tw-bg-opacity: 1;
-  background-color: hsl(180 4% 13% / var(--tw-bg-opacity));
+  background-color: hsl(180 4% 10% / var(--tw-bg-opacity));
 }
 .p-2 {
   padding: 0.5rem;
