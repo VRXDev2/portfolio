@@ -1750,7 +1750,7 @@ html {
 }
 .text-primary {
   --tw-text-opacity: 1;
-  color: hsl(var(--p) / var(--tw-text-opacity));
+  color: rgb(165, 77, 253);
 }
 .text-accent {
   --tw-text-opacity: 1;
